@@ -1,0 +1,2 @@
+# Unlocking-Customer-Insights-Segmentation-Using-Clustering-Techniques
+This project focuses on analyzing customer purchasing behavior for an online retail store and segmenting customers into distinct groups using unsupervised ML (K-Means clustering). The segmentation is based on RFM (Recency, Frequency, Monetary) analysis, which helps businesses better understand their customers and make data-driven decisions.
